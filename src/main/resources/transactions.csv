@@ -1,6 +1,11 @@
-id;date;account;type;amount;category;description
-1;2025-01-10;Mono;INCOME;15000;Salary;Зарплата за січень
-2;2025-01-11;Mono;EXPENSE;-1200;Food;Супермаркет
-3;2025-01-12;Mono;EXPENSE;-800;Transport;Проїзд
-4;2025-01-15;Mono;INCOME;2000;Freelance;Фріланс-проєкт
-5;2025-01-16;Mono;EXPENSE;-500;Entertainment;Кіно
+id,date,amount,currency,category,description
+1,2025-09-01,-450.75,UAH,Groceries,Покупка продуктів в супермаркеті
+2,2025-09-02,-1200.00,UAH,Electronics,Оплата навушників
+3,2025-09-03,25000.00,UAH,Salary,Зарахування заробітної плати
+4,2025-09-05,-300.00,UAH,Transport,Поповнення транспортної картки
+5,2025-09-06,-999.99,UAH,Clothes,Покупка одягу
+6,2025-09-07,-150.00,UAH,Coffee,Кава та десерти
+7,2025-09-10,-2200.50,UAH,Electronics,Оплата смартфона частинами
+8,2025-09-11,-600.00,UAH,Utilities,Комунальні послуги
+9,2025-09-12,-350.00,UAH,Groceries,Продукти на вихідні
+10,2025-09-15,-2000.00,UAH,Rent,Оренда квартири
