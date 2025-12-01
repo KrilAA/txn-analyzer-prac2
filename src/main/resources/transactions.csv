@@ -1,0 +1,6 @@
+id;date;account;type;amount;category;description
+1;2025-01-10;Mono;INCOME;15000;Salary;Зарплата за січень
+2;2025-01-11;Mono;EXPENSE;-1200;Food;Супермаркет
+3;2025-01-12;Mono;EXPENSE;-800;Transport;Проїзд
+4;2025-01-15;Mono;INCOME;2000;Freelance;Фріланс-проєкт
+5;2025-01-16;Mono;EXPENSE;-500;Entertainment;Кіно
